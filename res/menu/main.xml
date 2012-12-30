@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/addOption" android:title="@string/add"></item>
+    <item android:id="@+id/deleteOption" android:title="@string/delete"></item>
+    <item android:id="@+id/usageOption" android:title="@string/usage"></item>
+    <item android:id="@+id/aboutOption" android:title="@string/about"></item>
+    
+
+</menu>

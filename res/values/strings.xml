@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">PasswordNote</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">密码管理器</string>
+    <string name="add">添加</string>
+    <string name="delete">删除当前选定账号</string>
+    <string name="usage">用法</string>
+    <string name="about">关于</string>
+    <string name="usageinfo">账号来源指注册账号的网站，只是为了帮助你记忆。\n你可以输入任何信息，只要不妨碍你记忆你的账号是在哪里注册的。\n比如你有一个google账号，那么账号来源可以填\&quot;google\&quot;，也可以填\&quot;谷歌\&quot;，甚至可以填\&quot;强大的搜索引擎\&quot;。\n明白了这一点，使用方法就很自然了。\n假设你的google账号为MyAccount@gmail.com，那么先在账号来源栏选择相应选项，再在账号栏选择MyAccount@gmail.com，密码就会自动出现。</string>
+    <string name="aboutinfo">如发现bug或有建议可以发送邮件到zhecong123@gmail.com\nCopyright © 2012 郭哲聪Stone</string>
+    <string name="where">账号来源：</string>
+    <string name="account">账号：</string>
+    <string name="password">密码：</string>
+    <string name="confirm">确认密码：</string>
+	<string name="ok">确定</string>
+	<string name="cancel">取消</string>
+</resources>
